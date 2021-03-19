@@ -1,0 +1,1 @@
+const SNAKE_SPEED = 1; // how many times snake moves per second
