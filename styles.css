@@ -18,7 +18,7 @@ body {
 }
 
 .snake {
-    background-color: hsl(200, 100% 50%);
+    background-color: rgb(80, 152, 219);
     border: .25vmin solid black; /* Border width changes based on screen size*/
 }
 
